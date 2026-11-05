@@ -1,0 +1,6 @@
+{
+  "name": "CHALO – Intelligent Travel Planner",
+  "description": "Personalized day-wise travel itineraries powered by Google Gemini AI, with smart budgeting, destination discovery, and flexible pacing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
